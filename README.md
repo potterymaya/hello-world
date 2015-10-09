@@ -1,3 +1,3 @@
 # hello-world
 my first repository 
-test test
+https://guides.github.com/activities/hello-world/
